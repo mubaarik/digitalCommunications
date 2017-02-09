@@ -1,0 +1,7 @@
+The files labeled 1.dat, 2.dat, .., 6.dat are all encoded using a
+maximum dictionary size of 2^16 to get their corresponding .zl files.
+
+If you want to test your encoding with an alternative maximum
+dictionary size, we have included 5.dat.512.zl and 6.dat.512.zl.
+These are the result of encoding 5.dat and 6.dat with a maximum
+dictionary size of 512.
